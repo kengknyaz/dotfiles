@@ -1,2 +1,3 @@
 # dotfiles
-my emacs dotfiles
+
+IF U USE GENTOO/ANOTHER SRC-BASED DISTRO - BUILD EMACS WITH "tree-sitter" USE FLAG!!!!!!!!
